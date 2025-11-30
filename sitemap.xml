@@ -9,18 +9,48 @@
 
 <url>
   <loc>https://sessioncore.github.io/</loc>
-  <lastmod>2025-11-30T14:11:13+00:00</lastmod>
+  <lastmod>2025-11-30T14:47:52+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sessioncore.github.io/documentation/</loc>
-  <lastmod>2025-11-30T14:07:11+00:00</lastmod>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sessioncore.github.io/downloads/</loc>
-  <lastmod>2025-11-30T14:11:13+00:00</lastmod>
+  <lastmod>2025-11-30T14:47:52+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sessioncore.github.io/documentation/introduction/explanation/</loc>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sessioncore.github.io/documentation/introduction/installation/</loc>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sessioncore.github.io/documentation/introduction/howitworks/</loc>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sessioncore.github.io/documentation/support/faq/</loc>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sessioncore.github.io/documentation/support/knownproblems/</loc>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sessioncore.github.io/documentation/support/troubleshooting/</loc>
+  <lastmod>2025-11-30T14:56:48+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
